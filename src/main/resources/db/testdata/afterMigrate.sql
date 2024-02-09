@@ -1,0 +1,10 @@
+INSERT INTO client_table (id, name, payment) VALUES (1, 'Joao', 10000.00);
+INSERT INTO client_table (id, name, payment) VALUES (2, 'Maria', 15000.00);
+INSERT INTO client_table (id, name, payment) VALUES (3, 'Jose', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (4, 'Alex', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (5, 'Sandra', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (6, 'Joseph', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (7, 'Kakaroto', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (8, 'Andre', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (9, 'Livia', 30000.00);
+INSERT INTO client_table (id, name, payment) VALUES (10, 'Ivan', 30000.00);
